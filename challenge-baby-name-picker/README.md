@@ -1,3 +1,8 @@
+My_GitHub_Repo : https://github.com/seyyednavid/baby-names-react
+Netlify : https://scintillating-paprenjak-917c91.netlify.app/
+
+
+
 # Challenge: "Baby Name Picker (React)"
 
 ![Example Screenshot from the finished challenge](./example-screenshots/finished.png)
